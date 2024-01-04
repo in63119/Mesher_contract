@@ -1,0 +1,12 @@
+{
+  "name": "Mesher_contract",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/in63119/Mesher_contract.git",
+  "author": "<in63119@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^4.0.0",
+    "hardhat": "^2.19.4"
+  }
+}
